@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "chain_link_implementation/PriceConsumerV3": [
+      {
+        "address": "0x0c45cA0181225aea078a2D0cC5595043CDBADfBe",
+        "kind": "NonProxy",
+        "bytecodeHash": "4c252db3fe332e2321b6779631ed0eac0d6ac140cfe2884697b4c021f04d025d"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}

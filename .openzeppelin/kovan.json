@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "chain_link_implementation/CoinGeckoConsumer": [
+      {
+        "address": "0x61F1369c1Aa53791045F389dACF70eedb6d03Eb2",
+        "kind": "NonProxy",
+        "bytecodeHash": "8a7cf1830f54521ab04e5193779dd949ab8411bb6a1be4dbc3ff5ebbd4bf6c2c"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
